@@ -28,7 +28,7 @@ export default function Home() {
            </Link>
         </div>
         <div className='flex items-center justify-center p-6 md:w-3/5 md:py-12 px-28'>
-        <img
+        <Image
           src={`/hero-desktop.png`}
           width={1000}
           height={760}
